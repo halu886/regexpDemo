@@ -1,0 +1,11 @@
+{
+  "name": "regexpdemo",
+  "version": "1.0.0",
+  "description": "学习正则表达式的一个Demo",
+  "main": "emailRegex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
